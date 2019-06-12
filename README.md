@@ -11,3 +11,7 @@
 1. https://www.venuseye.com.cn/
 2. https://x.threatbook.cn/
 3. https://ti.qianxin.com/
+
+# 在线文件查杀
+1. https://habo.qq.com/
+2. http://www.virscan.org/
