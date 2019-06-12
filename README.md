@@ -15,3 +15,16 @@
 # 在线文件查杀
 1. https://habo.qq.com/
 2. http://www.virscan.org/
+
+# 技术门户
+
+1. https://www.freebuf.com/
+2. https://www.zsxq.com/
+3. https://www.anquanke.com/
+4. https://www.ichunqiu.com/
+5. https://paper.seebug.org/
+6. https://xz.aliyun.com/
+7. https://www.52pojie.cn/
+8. https://www.t00ls.net/
+9. https://www.secquan.org/
+10. https://www.bugbank.cn/
