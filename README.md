@@ -32,3 +32,7 @@
 11. https://www.hackinn.com/
 12. https://www.secpulse.com
 13. https://ired.team/
+
+# 常用软件
+
+1. [RSS订阅](http://irreader.fatecore.com/)
