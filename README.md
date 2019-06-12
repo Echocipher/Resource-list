@@ -31,3 +31,4 @@
 10. https://www.bugbank.cn/
 11. https://www.hackinn.com/
 12. https://www.secpulse.com
+13. https://ired.team/
