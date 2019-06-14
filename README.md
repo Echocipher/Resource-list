@@ -1,5 +1,12 @@
 # Resource-list
-“网址”传输助手，记载一下平时用到好的在线网址。
+
+author：Echocipher
+
+mail：echocipher@163.com
+
+blog：https://www.jianshu.com/u/1f2643f05298
+
+项目起因来源于看到别人分享的blog链接大全，于是参考了一下其中的内容形成了本项目，如果侵权，敬请告知。整理了格式，添加了一些自己平时会用到的内容，难免重复或者疏漏，如果您有推荐的相关内容推荐，请联系我。
 
 # 威胁情报
 1. https://www.venuseye.com.cn/ （VenusEye威胁情报中心）
@@ -352,16 +359,9 @@
 20. http://www.zuohaotu.com/ （找好图）
 ![](https://github.com/Echocipher/Resource-list/blob/master/pic/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190612095837.png)
 # 国内社工裤：
-1. http://cha.hx99.net/ （华西社工库）
-2. http://s.70sec.com/ （70sec社工库）
-3. http://so.moonsec.com/index.php （暗月社工库）
-4. http://qq.findmima.com/ (qq密码)
-5. http://www.ckaifang.com/ （查开房数据库）
-6. https://boy.findmima.com/ （查找密码社工库）
-7. http://163.donothackme.club/ (163邮箱社工库)
+:smiley: 根据相关法律法规不予显示
 # 国外社工裤：
-1. https://www.instantcheckmate.com/
-2. https://haveibeenpwned.com/
+:smiley: 根据相关法律法规不予显示
 # 联合账号查询：
 1. http://reg007.com （查询邮箱已注册过的网址）
 2. http://www.zhaohuini.com/ （找回密码）
