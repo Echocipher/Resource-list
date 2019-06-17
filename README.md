@@ -390,6 +390,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 1. http://tool.chinaz.com/ (站长工具）
 2. http://whatweb.net/ （网站指纹查询）
 3. https://www.t00ls.net/domain.html （t00ls工具）
+4. https://ipcheck.need.sh/ （ip是否被拦截查询）
 # MD5在线检查：
 1. http://www.cmd5.com/
 2. https://www.somd5.com/
