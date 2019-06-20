@@ -282,6 +282,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 258. https://www.sec-wiki.com/ （wiki安全资讯）
 259. http://www.mottoin.com/ （猫眼安全媒体)
 260. http://www.4hou.com/ （嘶吼安全媒体）
+270. https://www.0x00sec.org/ （0x00sec）
 # 漏洞预警和exp查询：
 1. http://wy.hx99.net/ （乌云搜索）
 2. https://loudong.sjtu.edu.cn/ （教育行业安全漏洞）
