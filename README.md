@@ -370,6 +370,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 4. http://toolsapp.duapp.com/randpw.html （反社工随机密码）
 5. https://www.trustasia.com/tools/ccs-checker/ （css漏洞检查）
 6. http://www.bejson.com/ （json在线验证）
+7. https://www.json.cn/ (json在线验证） 
 # 大数据以及端口服务查询：
 1. https://www.zoomeye.org/ （钟道之眼）
 2. https://www.shodan.io/ （shodan查询）
