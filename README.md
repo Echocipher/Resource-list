@@ -284,6 +284,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 260. http://www.4hou.com/ （嘶吼安全媒体）
 270. https://www.0x00sec.org/ （0x00sec）
 271. https://www.jozxing.cc/ （旧时光笔记）
+272. https://bithack.io/ （通证化安全生态技术社区 - BITHACK.IO）
 # 漏洞预警和exp查询：
 1. http://wy.hx99.net/ （乌云搜索）
 2. https://loudong.sjtu.edu.cn/ （教育行业安全漏洞）
@@ -360,6 +361,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 19. http://www.pinchins.cn/Tools.aspx?ch=Tools (勒索病毒解密工具)
 20. http://www.zuohaotu.com/ （找好图）
 ![](https://github.com/Echocipher/Resource-list/blob/master/pic/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190612095837.png)
+21. https://ocr.wdku.net/ （图片文字识别）
 # 国内社工裤：
 :smiley: 根据相关法律法规不予显示
 # 国外社工裤：
