@@ -287,6 +287,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 272. https://bithack.io/ （通证化安全生态技术社区 - BITHACK.IO）
 273. https://c1h2e1.github.io/ (衬衫博客）
 274. http://www.teagle.top/ （楼兰博客）
+275. https://blog.a0xpg.com/ （a0xpg博客）
 # 漏洞预警和exp查询：
 1. http://wy.hx99.net/ （乌云搜索）
 2. https://loudong.sjtu.edu.cn/ （教育行业安全漏洞）
