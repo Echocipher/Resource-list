@@ -334,6 +334,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 7. https://www.xctf.org.cn/ （xctf社区）
 8. http://bobao.360.cn/ctf/ （360CTF社区）
 9. https://ctftime.org/ （ctftime社区）
+10. https://firmianay.gitbooks.io/ctf-all-in-one/content/ （CTF 竞赛入门指南）
 # github项目：
 1. https://github.com/ctfs/ （CTFwrite ）
 2. https://github.com/powershellempire/empire （powershllempire项目）
