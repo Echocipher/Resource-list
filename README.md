@@ -290,6 +290,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 275. https://blog.a0xpg.com/ （a0xpg博客）
 276. http://foreversong.cn/ (adog博客）
 277. https://blog.blackfan.ru/ （blackfan 博客）
+288. https://klionsec.github.io/ （klion博客）
 # 漏洞预警和exp查询：
 1. http://wy.hx99.net/ （乌云搜索）
 2. https://loudong.sjtu.edu.cn/ （教育行业安全漏洞）
