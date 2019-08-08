@@ -36,7 +36,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 12. https://www.secpulse.com （安全脉搏）
 13. https://ired.team/ （红队资料）
 14. http://wiki.ioin.in/ （sec-news安全文摘）
-15. https://hackfun.org/ （hackfun博客）
+15. https://hackfun.org/ （4ido10n博客）
 16. https://cn.0day.today  （漏洞数据库）
 17. http://blog.csdn.net/qq_27446553/ （qq_27446553博客）
 18. http://0x007.blog.51cto.com/6330498/1628943 （0x007博客）
