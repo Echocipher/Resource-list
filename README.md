@@ -109,7 +109,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 85. http://twi1ight.com/ （twi1ight博客）
 86. https://rinige.com  (ringige博客)
 87. http://www.bystudent.com/ (bystudent博客)
-88. http://o0xmuhe.me/page/2/ (o0xmuhe博客)
+88. https://o0xmuhe.github.io (o0xmuhe博客)
 89. http://www.blue-lotus.net/ （蓝莲花战队博客）
 90. https://www.webshell.cc/ ( webshell博客)
 91. http://appleu0.sinaapp.com/ ( appleu0博客)
