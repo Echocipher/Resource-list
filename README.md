@@ -377,6 +377,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 25. https://screenshot-v2.now.sh/ （在线截图生成）
 26. https://ml.mk/ （短网址生成）
 27. https://zws.im （短网址生成）
+28. http://www.yopmail.com/en/ （临时邮箱）
 # 国内社工裤：
 :smiley: 根据相关法律法规不予显示
 # 国外社工裤：
