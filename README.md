@@ -374,6 +374,7 @@ blog：https://www.jianshu.com/u/1f2643f05298
 22. http://ceye.io/profile （检测带外（Out-of-Band）流量的监控平台）
 23. https://zh.savefrom.net/ （YouTube视频在线下载）
 24. https://www.zhihuxiazai.com/ （知乎视频下载）
+25. https://screenshot-v2.now.sh/ （在线截图生成）
 # 国内社工裤：
 :smiley: 根据相关法律法规不予显示
 # 国外社工裤：
