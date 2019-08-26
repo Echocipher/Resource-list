@@ -294,6 +294,7 @@ blog：https://echocipher.github.io
 299. https://www.4o4notfound.org/ （404博客）
 300. https://www.bugs.cc/ （Black-Hole博客）
 301. https://www.lshack.cn （lshack博客）
+302. https://yzddmr6.tk/ （yzddmr6博客）
 # 漏洞预警和exp查询：
 1. http://wy.hx99.net/ （乌云搜索）
 2. https://loudong.sjtu.edu.cn/ （教育行业安全漏洞）
