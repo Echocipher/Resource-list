@@ -917,7 +917,7 @@ blog：https://echocipher.github.io
 
 # 威胁情报分析
 
-1. https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https://archive.org/search.php?query= 密码泄露
+1. https://www.databases.today
 2. https://www.threatcrowd.org/ 威胁情报分析平台
 3. https://x.threatbook.cn/ 微步在线 | 威胁情报分析平台-ThreatBook-多引擎在线扫描、恶意软件在线检测
 4. https://github.com/needmorecowbell/sniff-paste 针对 Pastebin 的开源情报收集工具
@@ -930,6 +930,8 @@ blog：https://echocipher.github.io
 11. https://github.com/ChrisJohnRiley/Scythe 验证账号是否为常用账号
 12. https://github.com/fireeye/GeoLogonalyzer 远程身份验证地理位置分析工具，用于区分合法登录和恶意登录。
 13. https://github.com/target/strelka py3，通过实时扫描文件进行威胁情报分析和实时监测。
+14. https://hashes.org/leaks.php 密码泄露
+15. 
 
 # 托管云安全
 
